@@ -11,7 +11,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>3.56</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <groupId>de.tracetronic.jenkins.plugins</groupId>
@@ -102,7 +102,7 @@
         <antlr4-runtime.version>4.5.3</antlr4-runtime.version>
 
         <!-- SQLite -->
-        <sqlite-jdbc.version>3.7.2</sqlite-jdbc.version>
+        <sqlite-jdbc.version>3.36.0.3</sqlite-jdbc.version>
     </properties>
 
     <dependencies>
