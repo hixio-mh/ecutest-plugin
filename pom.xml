@@ -75,7 +75,7 @@
         <icon-shim.version>2.0.3</icon-shim.version>
         <junit.version>1.27</junit.version>
         <structs.version>1.19</structs.version>
-        <job-dsl.version>1.67</job-dsl.version>
+        <job-dsl.version>1.72</job-dsl.version>
         <credentials.version>2.1.19</credentials.version>
         <jquery-plugin.version>1.12.4-1</jquery-plugin.version>
 
