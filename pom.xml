@@ -73,7 +73,7 @@
         <!-- Jenkins plugins -->
         <matrix-project.version>1.13</matrix-project.version>
         <icon-shim.version>2.0.3</icon-shim.version>
-        <junit.version>1.27</junit.version>
+        <junit.version>1159.v0b_396e1e07dd</junit.version>
         <structs.version>1.19</structs.version>
         <job-dsl.version>1.67</job-dsl.version>
         <credentials.version>2.1.19</credentials.version>
